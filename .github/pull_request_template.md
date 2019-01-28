@@ -2,7 +2,7 @@
 
 (REQUIRED) Give a brief (around 1-2 sentence) summary of this PR following this [commit message guideline](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit)
 
-feat(login). This feature implements the login functionality.
+feat(login): This feature implements the login functionality.
 
 # Story Description
 
