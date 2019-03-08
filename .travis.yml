@@ -18,6 +18,7 @@ jobs:
       script:
         - yarn test:ci
     - stage: deploy
+      if: branch = master AND (NOT type = pull_request)
       before_deploy:
         - yarn semantic-release
       deploy:
