@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/thousight/Express-TS-Starter#readme",
   "dependencies": {
-    "@types/compression": "^1.7.0",
+    "@types/compression": "^1.7.2",
     "@types/cors": "^2.8.9",
     "@types/dotenv": "^8.2.0",
     "@types/express": "^4.17.11",
